@@ -12,7 +12,8 @@ button{
 
 #btnA{
   background-color: yellow;
- color: green 
+  color: green ;
+  font-weight: bold;
 }
 
 
