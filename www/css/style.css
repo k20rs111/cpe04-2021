@@ -4,6 +4,10 @@ body{
   background: skyblue;
 }
 
+#btnA{
+  background-color: yellow;
+}
+
 button{
   color: blue;
   font-family: Times;
